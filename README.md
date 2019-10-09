@@ -27,3 +27,18 @@
 ![字符串转整数(atoi)](https://github.com/Beking0912/leetcode_practice_js/blob/master/8_%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0%20(atoi)_%E4%B8%AD%E7%AD%89.png) 
 
 ![实现strStr()](https://github.com/Beking0912/leetcode_practice_js/blob/master/28_%E5%AE%9E%E7%8E%B0%20strStr()_%E7%AE%80%E5%8D%95.png)
+
+# 链表
+链表问题相对容易掌握。 不要忘记"双指针解法"，它不仅适用于数组问题，而且还适用于链表问题。另一种大大简化链接列表问题的方法是"Dummy node" 节点技巧，所谓Dummy Node其实就是带头节点的指针。
+
+我们(力扣)推荐以下题目：
+
+![反转链表](https://github.com/Beking0912/leetcode_practice_js/blob/master/206_%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8_%E7%AE%80%E5%8D%95.png)
+
+![合并两个有序链表](https://github.com/Beking0912/leetcode_practice_js/blob/master/21_%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8_%E7%AE%80%E5%8D%95.png)
+
+![链接环](https://github.com/Beking0912/leetcode_practice_js/blob/master/141_%E7%8E%AF%E5%BD%A2%E9%93%BE%E8%A1%A8_%E7%AE%80%E5%8D%95.png)
+
+![回文链表](https://github.com/Beking0912/leetcode_practice_js/blob/master/234_%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8_%E7%AE%80%E5%8D%95.png)
+
+更有额外的挑战，你可以尝试运用递归来解决这些问题：反转链表，回文链表和合并两个有序链表。
